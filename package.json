@@ -1,1 +1,1 @@
-{"name":"root","private":true,"version":"1.0.0","devDependencies":{"lerna":"^8.1.8"},"dependencies":{"react":"^18.3.1","react-native":"^0.76.0"},"publishConfig": {"access":"public"}}
+{"name":"root","private":false,"version":"1.0.0","devDependencies":{"lerna":"^8.1.8"},"dependencies":{"react":"^18.3.1","react-native":"^0.76.0"},"publishConfig": {"access":"public"}}
