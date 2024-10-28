@@ -5,9 +5,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+  "access": "public"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
-  "gitHead": "80cecdaace3d2927ce383b3d4e8fd1677efc4b1d"
+  "gitHead": "e3f16e8d922c74f5a22e9249a80f0aed70f88b48"
 }
